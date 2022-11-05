@@ -1,8 +1,0 @@
-{
-  "$schema": "./node_modules/nx/schemas/workspace-schema.json",
-  "version": 2,
-  "projects": {
-    "poll": "apps/poll",
-    "poll-e2e": "apps/poll-e2e"
-  }
-}
